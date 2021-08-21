@@ -14,3 +14,13 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+//= require jquery3
+//= require rails-ujs
+//= require activestorage
+//= require_tree .
+//= require popper
+//= require bootstrap-sprockets
+//= require jquery-ui/datepicker
+//= require jquery-ui/slider
+//= require toastr
